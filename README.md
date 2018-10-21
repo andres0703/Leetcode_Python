@@ -1,3 +1,3 @@
 # Leetcode_Python
 
-Leetcode practices written in Python
+My leetcode practices written in Python.
