@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe7dd803-d329-45f7-abd9-547b53f5885c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fe7dd803-d329-45f7-abd9-547b53f5885c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,42 +44,43 @@
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="177" />
-          <entry key="py" value="1930" />
+          <entry key="py" value="2394" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="177" />
-          <entry key="Python" value="1930" />
+          <entry key="Python" value="2394" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="2" />
-          <entry key="py" value="2" />
+          <entry key="md" value="3" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
-          <entry key="Python" value="2" />
+          <entry key="Markdown" value="3" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/No.5 LongestPalindromeSubstring/LongestPalindromicSubstring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="315">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding>
                 <marker date="1540583917683" expanded="true" signature="132:182" ph="..." />
               </folding>
@@ -90,12 +89,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/No.22 Generate Parentheses/GenerateParentheses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <marker date="1540665422264" expanded="true" signature="15:16" ph="..." />
+                <marker date="1540665422264" expanded="true" signature="71:77" ph="..." />
+                <marker date="1540665422264" expanded="true" signature="123:132" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/No.27 Remove Element/RemoveElement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/No.5 LongestPalindromeSubstring/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/No.22 Generate Parentheses/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -138,6 +170,7 @@
         <option value="$PROJECT_DIR$/No.4 LongestPalindromicSubstring/LongestPalindromicSubstring.py" />
         <option value="$PROJECT_DIR$/No.5 LongestPalindromeSubstring/README.md" />
         <option value="$PROJECT_DIR$/No.5 LongestPalindromeSubstring/LongestPalindromicSubstring.py" />
+        <option value="$PROJECT_DIR$/No.22 Generate Parentheses/GenerateParentheses.py" />
       </list>
     </option>
   </component>
@@ -153,7 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,12 +196,7 @@
             <path>
               <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="No.5 LongestPalindromeSubstring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="No.19 Remove Nth Element From End" type="462c0819:PsiDirectoryNode" />
+              <item name="No.22 Generate Parentheses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Leetcode_Python" type="b2602c69:ProjectViewProjectNode" />
@@ -179,6 +206,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,13 +214,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/No.5 LongestPalindromeSubstring" />
+      <recent name="$PROJECT_DIR$/No.27 Remove Element" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/BestTimeToBuyAndSellStock" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/No.5 LongestPalindromeSubstring" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/No.27 Remove Element" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -207,7 +235,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LongestPalindromicSubstring">
+  <component name="RunManager" selected="Python.GenerateParentheses">
+    <configuration name="GenerateParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/No.22 Generate Parentheses" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/No.22 Generate Parentheses/GenerateParentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="LongestPalindromicSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,9 +324,11 @@
       <item itemvalue="Python.RemoveElement" />
       <item itemvalue="Python.RemoveNthFromEnd" />
       <item itemvalue="Python.LongestPalindromicSubstring" />
+      <item itemvalue="Python.GenerateParentheses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.GenerateParentheses" />
         <item itemvalue="Python.LongestPalindromicSubstring" />
         <item itemvalue="Python.RemoveNthFromEnd" />
         <item itemvalue="Python.RemoveElement" />
@@ -321,7 +372,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23734939" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23734939" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,41 +444,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding>
-            <marker date="1540495479544" expanded="true" signature="410:411" ph="..." />
-            <marker date="1540495479544" expanded="true" signature="411:416" ph="..." />
-            <marker date="1540495479544" expanded="true" signature="452:555" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/No.5 LongestPalindromeSubstring/__init__.py" />
     <entry file="file://$PROJECT_DIR$/No.27 Remove Element/RemoveElement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/No.5 LongestPalindromeSubstring/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/No.5 LongestPalindromeSubstring/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/No.5 LongestPalindromeSubstring/LongestPalindromicSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="315">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding>
             <marker date="1540583917683" expanded="true" signature="132:182" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/No.22 Generate Parentheses/GenerateParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <marker date="1540665422264" expanded="true" signature="15:16" ph="..." />
+            <marker date="1540665422264" expanded="true" signature="71:77" ph="..." />
+            <marker date="1540665422264" expanded="true" signature="123:132" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/No.5 LongestPalindromeSubstring/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/No.22 Generate Parentheses/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
